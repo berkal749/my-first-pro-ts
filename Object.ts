@@ -1,4 +1,4 @@
-let user = {
+let userd = {
   name: "qq",
   number: 88,
 };
@@ -13,13 +13,26 @@ return{name:"lol"};
 
 
 type user ={
-
+ readonly _id:string;
     name:string;
     email: string;
     paied:boolean;
+    cred?:number;
 }
 function createUser(user:user){
 
-    
+
 }
+let User :user ={
+      _id:"ahh",
+    name:"ahhh",
+    email: "ahhh",
+    paied:true,
+
+
+
+
+
+}
+type usedv = user & userd ;
 export {};
