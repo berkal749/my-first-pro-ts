@@ -10,4 +10,16 @@ function reObject():{name:string}{
 return{name:"lol"};
 
 }
+
+
+type user ={
+
+    name:string;
+    email: string;
+    paied:boolean;
+}
+function createUser(user:user){
+
+    
+}
 export {};
