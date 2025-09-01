@@ -1,0 +1,21 @@
+{
+  "name": "my-first-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "type.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkal749/my-first-pro-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/berkal749/my-first-pro-ts/issues"
+  },
+  "homepage": "https://github.com/berkal749/my-first-pro-ts#readme"
+}
