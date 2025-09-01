@@ -13,11 +13,6 @@ class user {
     this.name = name;
   }
 }
-class me extends user{
-isFamli:boolean;
-
-
-}
 
 const me = new user("ok", 77);
 me.name;
